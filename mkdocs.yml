@@ -1,5 +1,6 @@
-site_name: study2025 Docs
+﻿site_name: study2025 Docs
 nav:
   - Home: index.md
   - Installation: installation.md
   - API Reference: api/reference.md
+
